@@ -23,15 +23,7 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/github/license/yourusername/sync-wave?style=flat-square" alt="License" />
-    <img src="https://img.shields.io/github/stars/yourusername/sync-wave?style=flat-square" alt="Stars" />
-    <img src="https://img.shields.io/github/issues/yourusername/sync-wave?style=flat-square" alt="Issues" />
-    <img src="https://img.shields.io/github/last-commit/yourusername/sync-wave?style=flat-square" alt="Last Commit" />
-    <img src="https://img.shields.io/github/actions/workflow/status/yourusername/sync-wave/ci.yml?style=flat-square" alt="Build Status" />
-    <img src="https://img.shields.io/codecov/c/github/yourusername/sync-wave?style=flat-square" alt="Code Coverage" />
-  </p>
+
 </div>
 
 ---
@@ -110,8 +102,6 @@
 
 ### Prerequisites
 
-<details>
-<summary><b>📋 Click to expand</b></summary>
 <br>
 
 Make sure you have the following installed:
@@ -126,3 +116,4 @@ Verify your installation:
 node --version  # Should be v18.0.0 or higher
 npm --version   # Should be v8.0.0 or higher
 git --version   # Should be v2.0.0 or higher
+
