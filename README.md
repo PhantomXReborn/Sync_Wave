@@ -98,6 +98,9 @@
 
 ---
 
+<img width="2446" height="1171" alt="image" src="https://github.com/user-attachments/assets/abcc312b-b95e-402f-889e-9adf68204a85" />
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -116,4 +119,5 @@ Verify your installation:
 node --version  # Should be v18.0.0 or higher
 npm --version   # Should be v8.0.0 or higher
 git --version   # Should be v2.0.0 or higher
+
 
